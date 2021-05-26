@@ -1,1 +1,7 @@
-
+.jumbotron{
+    background-color: pink;
+    text-align:center;
+}
+body{
+    background-color:lightblue;
+}
